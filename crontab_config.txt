@@ -1,0 +1,3 @@
+* * * * * /usr/bin/python3 consultar_mediciones.py
+@reboot sleep 60 && /usr/bin/python3 servidor_mediciones.py
+@reboot sleep 60 && /usr/bin/python3 aniadir_relays.py
